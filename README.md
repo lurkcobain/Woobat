@@ -5,5 +5,5 @@ A layout inspired by le Chiffre, featuring a centered num/nav cluster with the o
 <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/527.png">
 
 <center>
-  <img src="https://raw.githubusercontent.com/lurkcobain/Woobat/master/woobat.png">
+  <img src="_">
 </center>
